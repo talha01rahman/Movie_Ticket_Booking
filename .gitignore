@@ -1,0 +1,6 @@
+**/node_modules/
+**/build/
+**/target/
+**/.idea/
+.DS_Store
+backend.iml
